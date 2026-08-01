@@ -119,7 +119,7 @@ VirtualTouchpadPro/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/VirtualTouchpadPro.git
+git clone https://github.com/M-sahoo2007/VirtualTouchpadPro.git
 ```
 
 ```bash
