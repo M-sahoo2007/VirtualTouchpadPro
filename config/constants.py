@@ -1,0 +1,18 @@
+"""
+Project constants.
+"""
+
+WINDOW_NAME = "Virtual Touchpad Pro"
+
+FRAME_WIDTH = 1280
+FRAME_HEIGHT = 720
+
+ACTIVE_MARGIN = 100
+
+FPS_AVERAGE = 30
+
+SMOOTHING = 7
+
+CLICK_DISTANCE = 35
+
+SCROLL_SPEED = 80
